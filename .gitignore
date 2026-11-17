@@ -1,0 +1,9 @@
+.venv
+.idea
+.vscode/
+nodemon.json
+.env
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
